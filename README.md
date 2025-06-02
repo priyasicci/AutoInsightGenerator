@@ -1,4 +1,4 @@
-# A Guided Live Project – Automated Data Insights Generator# 
+# A Guided Live Project – Automated Data Insights Generator 
 This project is Text-to-SQL Insights Generator, a hands-on project developed to learn about AI. This application empowers non-technical users to interact with datasets and generate visual and textual insights using natural language — without writing a single line of SQL or code.
 
 ## Project Overview ##
